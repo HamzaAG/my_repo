@@ -15,7 +15,7 @@ const initialState = {
         { id: 13, name: "Hamza ANOUAR", email: "anouar@gmail.com" },
         { id: 14, name: "Oussama CHERQUAOUI", email: "cherquaoui@gmail.com" },
         { id: 15, name: "Walid OUBOUH", email: "oubouh@gmail.com" },
-        { id: 16, name: "Anass AITTAMLDO", email: "ait_tamaldo@gmail.com" },
+        { id: 16, name: "Anass AITTAMLDO", email: "ait_tamldo@gmail.com" },
         { id: 17, name: "Zakaria BAHID", email: "bahid@gmail.com" },
         { id: 18, name: "Zakaria LAHGAZ", email: "lahgaz@gmail.com" }
     ] 
